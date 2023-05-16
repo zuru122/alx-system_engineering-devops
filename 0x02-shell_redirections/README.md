@@ -30,3 +30,4 @@ Replace all characters A and c from input to Z and e respectively.
 Create a script that removes all letters c and C from input.
 Write a script that reverse its input.
 Write a script that displays all users and their home directories, sorted by users. Based on the the /etc/passwd file
+Write a command that finds all empty files and directories in the current directory and all sub-directories.Only the names of the files and directories should be displayed (not the entire path); Hidden files should be listed; One file name per line; The listing should end with a new line; You are not allowed to use basename, grep, egrep, fgrep or rgrep
